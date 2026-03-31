@@ -1,0 +1,8 @@
+# Ignore all .class files
+*.class
+
+# Ignore the target directory at the root level of the project
+/target/
+
+# Ignore target directories at any level of the project
+**/target/
